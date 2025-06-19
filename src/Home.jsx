@@ -1,11 +1,8 @@
-import React from 'react'
-import Button from './Button'
-
-export default function Home() {
-  return (
-    <div>
-       
-        <Button/>
-    </div>
-  )
-}
+ import React from 'react'
+ 
+ export default function Home() {
+   return (
+     <div>Home</div>
+   )
+ }
+ 

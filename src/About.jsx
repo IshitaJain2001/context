@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div>
 
-      <Button/>
+About
     </div>
   )
 }
